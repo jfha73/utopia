@@ -8,3 +8,5 @@ I like to think of it as a combination of Oasis from Ready Player One and Life I
 Since this project is 100% free it also means that nobody gets paid from working on it, we work on Utopia for the same reasons characters do it in their world, to make the world a better place.
 
 So join us and help make this world (the earth) a better place too.
+
+We prefer to use languages like Python ot Go and avoid using languages like Java
