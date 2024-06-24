@@ -13,4 +13,4 @@ We prefer to use languages like Python or Go and avoid using languages like Java
 
 I am starting this hoping there are other sould out there that are like me who think that money is the cause of all the problems in the world and who would like to know what would happen in a world without money.
 
-I eould like to hear those words from Free Guy: "There is no Bank"
+I would like to hear those words from Free Guy: "There is no Bank"
